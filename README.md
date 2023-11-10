@@ -26,6 +26,7 @@ specifico DBMS. Il DBMS considerato durante il corso sarà MySQL.
 
 ## IDE Utilizzato
 <code><img alt="DataGrip" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png"/></code>
+<code><img alt="MySQLWorkbench" width="40px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"/></code>
 
 ## Licenza
 
