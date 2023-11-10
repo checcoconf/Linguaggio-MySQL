@@ -21,6 +21,9 @@ specifico DBMS. Il DBMS considerato durante il corso sarà MySQL.
 - [Esercitazione 2](https://github.com/checcoconf/Linguaggio-MySQL/tree/main/Esercitazione%202) - [Traccia](https://github.com/checcoconf/Linguaggio-MySQL/blob/main/Esercitazione%202/Traccia.pdf)
 - [Esercitazione 3](https://github.com/checcoconf/Linguaggio-MySQL/tree/main/Esercitazione%203) - [Traccia](https://github.com/checcoconf/Linguaggio-MySQL/blob/main/Esercitazione%203/Traccia.pdf)
 
+## Software
+<code><img alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/800px-MySQL_logo.svg.png"/></code>
+
 ## IDE Utilizzato
 <code><img alt="DataGrip" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png"/></code>
 
